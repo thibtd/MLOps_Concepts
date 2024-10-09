@@ -1,0 +1,12 @@
+1. Always make new venv (python -m venv .venv)
+2. activate it (source .venv/bin/activate)
+3. Create Scafolding of testing project 
+    a. MakeFile (touch makefile)
+    b. requirement file (touch requirements.txt)
+    c. test file 
+    d. app file 
+
+
+Makefile: 
+    Go look at other projects to see if there is one if so then you can prolly copy paste and update if needed. 
+    
